@@ -1,0 +1,1 @@
+ nohup node ./server/server.js & 
