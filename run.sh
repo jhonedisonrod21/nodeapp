@@ -1,1 +1,1 @@
- nohup node ./server/server.js & 
+ nohup node ./server/server.js >> /dev/null & 
