@@ -1,5 +1,5 @@
  echo 'instalando dependencias'
- nohup npm install >> /dev/null & 
+ nohup npm install 
  sleep 3s
  echo 'iniciando el servicio'
- nohup node ./server/server.js >> /dev/null & 
+ nohup node ./server/server.js  
