@@ -1,1 +1,1 @@
- nohup node ./server/server.js >> /dev/null & 
+ nohup npm install >> /dev/null && nohup node ./server/server.js >> /dev/null & 
